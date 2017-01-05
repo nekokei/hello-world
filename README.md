@@ -1,2 +1,3 @@
 # hello-world
-first repository
+ hey there earthlings
+ let's be weird
